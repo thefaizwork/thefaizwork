@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Upload github_cropped.gif to your repo and use the raw link! -->
-  <img src="https://raw.githubusercontent.com/thefaizwork/thefaizwork/main/github_cropped.gif" alt="Retro Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+  <img src="[https://raw.githubusercontent.com/thefaizwork/thefaizwork/main/github_cropped.gif](https://imgur.com/gallery/call-of-shadows-raptor-U154cUb#df9D44f)" alt="Retro Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
 </div>
 
 
