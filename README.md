@@ -70,8 +70,8 @@
 
 <div align="center">
   <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=20232a" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=20232a&dates=c9d1d9&ring=ffffff&currStreakNum=ffffff&sideNums=c9d1d9" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefaizwork&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=20232a" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaizwork&theme=dark&background=0d1117&border=20232a&dates=c9d1d9&ring=ffffff&currStreakNum=ffffff&sideNums=c9d1d9" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
