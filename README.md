@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=B072FF&background=0D111700&center=true&vCenter=true&width=800&height=120&lines=Hello+There!+I'm+Faizan+Ahmad+👾;Frontend+Engineer+%26+UI%2FUX+Designer;Founder+of+Dynexus.space" alt="Typing Banner" />
+  <img src="./github_cropped.gif" alt="Retro Banner" width="100%" style="border-radius: 12px;" />
 </div>
 
 <hr style="border: 1px solid #3a0088; margin: 20px 0;">
