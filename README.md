@@ -13,7 +13,7 @@
 
 <br/>
 
-<h3 align="center">👤 About me</h3>
+<h3 align="center">About me</h3>
 <hr style="border: 1px solid #8a0000; margin: 20px 0;">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -23,8 +23,8 @@
       <br/>
       <div align="left" style="line-height: 1.8;">
         🔴 <b>Education:</b> B.Tech in Computer Science at Amity University Noida (2027)<br/>
-        🩸 <b>Current Focus:</b> React, Next.js, and scaling UI Design Systems (Avera, DynaCSS)<br/>
-        🕹️ <b>Experience:</b> Web & Digital at TEDx Amity, App Dev at Digital Hercules
+        🩸 <b>Current Focus:</b> React, Next.js, and scaling UI Design Systems<br/>
+        🕹️ <b>Professional Experience:</b> Web & Digital at TEDx Amity, App Dev at Digital Hercules
       </div>
     </td>
     <td width="35%" align="right" valign="top">
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h3 align="center">⚙️ Technologies & Design Tools</h3>
+<h3 align="center">Technologies & Design Tools</h3>
 <hr style="border: 1px solid #8a0000; margin: 20px 0;">
 
 <div align="center">
@@ -67,7 +67,7 @@
 
 <br/>
 
-<h3 align="center">📈 Statistics</h3>
+<h3 align="center">Statistics</h3>
 <hr style="border: 1px solid #8a0000; margin: 20px 0;">
 
 <div align="center">
