@@ -29,7 +29,7 @@
     </td>
     <td width="35%" align="right" valign="top">
       <!-- Changed the placeholder GIF to a very retro red pixel art animation! -->
-      <img src="https://i.pinimg.com/originals/9b/a3/d1/9ba3d15dc82d8c9735d48bd31cbf67f3.gif" alt="Red Cyberpunk Glitch Art" width="100%" style="border-radius: 8px; max-width: 280px;" />
+      <img src=""https://raw.githubusercontent.com/thefaizwork/thefaizwork/main/UG.png" alt="Red Cyberpunk Glitch Art" width="100%" style="border-radius: 8px; max-width: 280px;" />
     </td>
   </tr>
 </table>
