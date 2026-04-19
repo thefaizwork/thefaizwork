@@ -78,5 +78,5 @@
 
 <div align="center">
   <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&border_color=20232a" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thefaizwork&theme=github-dark&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&border_color=20232a" width="100%" alt="Contribution Graph" />
 </div>
