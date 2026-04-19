@@ -8,7 +8,7 @@
 <hr style="border: 1px solid #3a0088; margin: 20px 0;">
 
 <div align="center">
-  <a href="https://linkedin.com/in/faizahahmad"><img src="https://img.shields.io/badge/LINKEDIN-0a0014?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/faizanahmaad/"><img src="https://img.shields.io/badge/LINKEDIN-0a0014?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
   <a href="https://github.com/thefaizwork"><img src="https://img.shields.io/badge/GITHUB-0a0014?style=for-the-badge&logo=github&logoColor=b072ff" alt="GitHub" /></a>
   <a href="https://dynexus.space"><img src="https://img.shields.io/badge/PORTFOLIO-0a0014?style=for-the-badge&logo=vercel&logoColor=00e5ff" alt="Portfolio" /></a>
   <a href="mailto:world.faizan.ahmad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0014?style=for-the-badge&logo=gmail&logoColor=b072ff" alt="Email" /></a>
