@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thefaizwork/thefaizwork/main/Pi7_Gif.gif" alt="Retro Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
 </div>
 
 <hr style="border: 1px solid #8a0000; margin: 20px 0;">
